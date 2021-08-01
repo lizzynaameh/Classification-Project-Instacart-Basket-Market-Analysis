@@ -10,7 +10,7 @@
 
 #### Data Description:
 
-- I am looking at Instacart's first public dataset release, [“The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017). This anonymized dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, between 4 and 100 of their orders are provided, with the sequence of products purchased in each order. Week and hour of the day information is also provided, and a relative measure of time between orders. The data dictionary can be accessed [here]((https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
+- I am looking at Instacart's first public dataset release, [“The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017). This anonymized dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, between 4 and 100 of their orders are provided, with the sequence of products purchased in each order. Week and hour of the day information is also provided, and a relative measure of time between orders. The data dictionary can be accessed [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
 
 #### Tools:
 
