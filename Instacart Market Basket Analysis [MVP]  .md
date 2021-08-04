@@ -10,7 +10,7 @@ Some interesting points were drawn from initial data exploration:
 
 Users tend to make purchases on a weekly basis, and often even more frequently.
 
-![Top Products](/Users/elizabethnaameh/Downloads/top_products.png)
+![Top Products](images/top_products.png)
 
 The top Produce item is Bananas by far, and organic produce is very popular, with 15 of the top 20 products being organic.
 
