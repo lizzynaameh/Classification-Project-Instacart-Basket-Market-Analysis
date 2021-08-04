@@ -6,7 +6,7 @@ I am looking at Instacart's public anonymized dataset, [“The Instacart Online 
 
 Some interesting points were drawn from initial data exploration: 
 
-![Days Since Prior Purchase](/Users/elizabethnaameh/Downloads/days_since_prior.png )
+![Days Since Prior Purchase](images/days_since_prior.png)
 
 Users tend to make purchases on a weekly basis, and often even more frequently.
 
