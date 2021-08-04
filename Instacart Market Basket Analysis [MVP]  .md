@@ -19,6 +19,6 @@ Using feature engineering, we constructed two features to predict whether a cert
 1. The proportion of prior orders that contained that product.
 2. Whether or not the product was in the user's last cart (the penultimate if you include the cart being predicted). 
 
-![Features](/Users/elizabethnaameh/Downloads/plot_features.png)
+![Features](images/plot_features.png)
 
 With a logistic regression classifier, we achieved an F1 score of 0.24 using these two features only. We want to construct more and better features and use more sophisticated modeling to improve our classifier.
