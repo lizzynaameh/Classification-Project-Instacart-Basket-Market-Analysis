@@ -28,7 +28,7 @@ The [dataset](https://www.instacart.com/datasets/grocery-shopping-2017) is anony
 
 These slides and visuals will be shared at Instacart's next Engineering Team meeting.
 
-![Top Products](/Users/elizabethnaameh/Downloads/top_products.png)
+![Top Products](images/top_items.png)
 
 The top Produce item is Bananas by far, and organic produce is very popular, with 15 of the top 20 products being organic.
 
