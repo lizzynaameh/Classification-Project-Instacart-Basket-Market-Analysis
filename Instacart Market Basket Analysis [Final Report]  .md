@@ -32,7 +32,7 @@ These slides and visuals will be shared at Instacart's next Engineering Team mee
 
 The top Produce item is Bananas by far, and organic produce is very popular, with 15 of the top 20 products being organic.
 
-![Final Model Confusion Matrix](/Users/elizabethnaameh/Desktop/confusion_matrix_rfc_instacart.png)
+![Final Model Confusion Matrix](images/confusion_matrix_rfc_instacart.png)
 
 Our random forest model was able to achieve recall and precision scores of 42% and an F1 score of 0.42. This model can serve as the basis for a recomendation system.
 
